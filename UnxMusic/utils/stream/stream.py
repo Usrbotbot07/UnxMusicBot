@@ -29,6 +29,7 @@ async def stream(
     spotify: Union[bool, str] = None,
     forceplay: Union[bool, str] = None,
 ):
+    print(1)
     if not result:
         return
     if forceplay:
@@ -131,6 +132,7 @@ async def stream(
                 reply_markup=upl,
             )
     elif streamtype == "youtube":
+        print(2)
         link = result["link"]
         vidid = result["vidid"]
         title = (result["title"]).title()
@@ -165,7 +167,7 @@ async def stream(
         else:
             if not forceplay:
                 db[chat_id] = []
-            await Mukesh.join_call(
+            await Unx.join_call(
                 chat_id,
                 original_chat_id,
                 file_path,
