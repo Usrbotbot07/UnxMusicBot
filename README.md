@@ -15,9 +15,11 @@
 </p>
 
 <p align="center">
-  <img src="https://graph.org/file/ae65f816946cd988dbe48.jpg">
+  <img src="https://graph.org/file/03b21993b0087ed740fe2.jpg">
 </p>
-
+<h5 align="center">
+ ─「 ᴡɪᴛʜ ᴀʟʟ ɴᴇᴡ ᴛʜᴇᴍᴇ 」─
+</h5>
 <h3 align="center">
     ─「 ᴅᴇᴩʟᴏʏ ᴏɴ ʜᴇʀᴏᴋᴜ 」─
 </h3>
