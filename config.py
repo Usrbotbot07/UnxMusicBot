@@ -34,6 +34,9 @@ UPSTREAM_REPO = getenv(
     "UPSTREAM_REPO",
     "https://github.com/AnonymousX1025/AnonXMusic",
 )
+
+REPO_LINK = "https://github.com/unxAssociation/unxmusicbot"
+
 UPSTREAM_BRANCH = getenv("UPSTREAM_BRANCH", "master")
 GIT_TOKEN = getenv(
     "GIT_TOKEN", None
